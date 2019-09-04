@@ -1,0 +1,17 @@
+.machine {
+    border: 2px solid #000;
+    background-color: cadetblue;
+    margin: 10px auto 20px;
+    text-align: center;
+    width: 50%;
+}
+
+.win {
+    background-color: green;
+    color: white;
+}
+
+.lost {
+    background-color: red;
+    color: white;
+}
