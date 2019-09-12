@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './Dog.css';
-import pug from './pug.jpg'
+import pug from './pug.jpg';
 
 class Dog extends Component {
     render() {
